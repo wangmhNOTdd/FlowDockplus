@@ -147,6 +147,7 @@ dmypy.json
 # FlowDock
 configs/local/default.yaml
 !/data/splits/
+data/
 /*checkpoints/
 /*data/
 /FlowDock/
