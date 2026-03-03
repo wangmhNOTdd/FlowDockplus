@@ -1,6 +1,0 @@
-id,input_receptor,input_ligand,input_template
-T1152_1,data/test_cases/predicted_structures/T1152.pdb,CC(C)C1=CC=C(C=C1)C(=O)O,data/test_cases/predicted_structures/T1152.pdb
-T1152_2,data/test_cases/predicted_structures/T1152.pdb,NC(=O)C1=CC=C(C=C1)C(=O)O,data/test_cases/predicted_structures/T1152.pdb
-T1152_3,data/test_cases/predicted_structures/T1152.pdb,CC(C)C1=CC=C(C=C1)C(=O)C,data/test_cases/predicted_structures/T1152.pdb
-T1152_4,data/test_cases/predicted_structures/T1152.pdb,CC(=O)C1=CC=C(C=C1)C(=O)O,data/test_cases/predicted_structures/T1152.pdb
-T1152_5,data/test_cases/predicted_structures/T1152.pdb,NC(C)C1=CC=C(C=C1)C(=O)O,data/test_cases/predicted_structures/T1152.pdb
